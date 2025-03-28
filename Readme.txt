@@ -1,6 +1,6 @@
-Thanks for downloading this theme!
+Thanks for downloading this template!
 
-Theme Name: Rapid
-Theme URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
+Template Name: Rapid
+Template URL: https://bootstrapmade.com/rapid-multipurpose-bootstrap-business-template/
 Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+License: https://bootstrapmade.com/license/
